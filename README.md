@@ -31,6 +31,14 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 **PS: Downlaod Compiled version and copy res Folder to bin**
 
+
+if you get this error on compile , double click the error it will take you were the error is
+and replace "AngelAndroidForm" with "Cypherrat"
+
+![image](https://user-images.githubusercontent.com/54191699/174892657-22422e6c-0693-4236-af81-d74a9e75f6b4.png)
+
+
+
 --------------
 
 
