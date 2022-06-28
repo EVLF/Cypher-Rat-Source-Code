@@ -157,9 +157,6 @@ Images :
 
 --------------
 
-**UPDATE 6/28/2022**  NEW
-
-![DOWNLOAD](https://user-images.githubusercontent.com/54191699/176256560-ce16deff-9af9-45ef-99e7-05921104e8e7.png)(https://www.mediafire.com/file/blw2rs4qqlkn56d/CypherRatV3.5-NEW.rar/file)
 
 
 --------------
