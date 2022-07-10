@@ -20,14 +20,19 @@ you are the only responsible for any kind of use of this tool , the developer is
 
 -------------
 
+DOWLONAD FULL Package Source code
 
-**UPDATE 6/18/2022** !!  NEW 
+1: Controller Source (same on github + some fix)
 
-1- Release The Source Code
+2: Apk Source Code 
 
-2- Apk Src and injector Src Available on Sellix FOR 75$ Consider it as Support for me
+3: injection Source Code 
 
-[APK SRC+ injector SRC](https://craxsrat.sellix.io/product/62ae0306351a7)
+Form https://t.me/evlfdev
+
+- - - - - - - - 
+
+
 
 **PS: Downlaod Compiled version and copy res Folder to bin**
 
